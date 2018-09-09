@@ -17,3 +17,12 @@ tei-lg {
 *[rend*="slant(italic)"] {
   font-style: italic;
 }
+tei-placeName {
+  color: blue;
+}
+tei-placeName[sameAs]:hover::after {
+  content: attr(sameAs);
+  vertical-align: top;
+  font-size: xx-small;
+  padding: 1px;
+}
