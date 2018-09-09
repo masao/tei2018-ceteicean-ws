@@ -1,0 +1,19 @@
+tei-lg {
+  padding: 5px;
+  border: black solid 1px;
+}
+*[rend*="align(left)"] {
+  display: block;
+  text-align: left;
+}
+*[rend*="align(center)"] {
+  display: block;
+  text-align: center;
+}
+*[rend*="align(right)"] {
+  display: block;
+  text-align: right;
+}
+*[rend*="slant(italic)"] {
+  font-style: italic;
+}
