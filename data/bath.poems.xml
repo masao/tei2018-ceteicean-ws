@@ -2,7 +2,7 @@
 <!DOCTYPE TEI PUBLIC "//Brown University Women Writers Project//DTD WWP Textbase Storage DTD//EN" "/opt/local/share/xml/wwpstore/schema/dtd/wwp-store.dtd">
 <?oxygen RNGSchema="../schema/wwp-store.rnc" type="compact"?>
 <!-- $Header: /home/jmelson/tb/improvement/RCS/bath.poems.xml,v 1.49 2010-07-16 09:06:16-04 jmelson Exp $ -->
-<TEI xmlns="http://www.wwp.brown.edu/ns/textbase/storage/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader xml:id="TR00086.hdr">
     <fileDesc>
       <titleStmt>
